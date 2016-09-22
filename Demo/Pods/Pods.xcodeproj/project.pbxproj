@@ -203,19 +203,6 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>0CA6FFC1E37F3EC3BBF24039C64960B1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MTLManagedObjectAdapter.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>0CCB6B307EBF17E2D0E3A6AD52F6F51E</key>
 		<dict>
 			<key>fileRef</key>
@@ -287,6 +274,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>10FF40007C2577CBA5264DDB902D8779</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>XYMTLManagedObjectAdapter.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>119DBBDD2CDB4694DBCFDB2DAC95D74E</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -318,6 +318,19 @@
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Release</string>
+		</dict>
+		<key>1253722ECE2220A08696158E639466BF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>mtl_moa_EXTScope.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>12D81544B504091EEBE14BB68DD7A17C</key>
 		<dict>
@@ -482,6 +495,23 @@
 				</array>
 			</dict>
 		</dict>
+		<key>19449203DE694CEA01F1FC793DD6D808</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>D69A9E286F75DF6B0F6872EE89DC95F0</string>
+				<string>665451280D73EC22EAF19D4E597B2FEF</string>
+				<string>97E30D4BA8E0545B2485A467626D28FA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>MTLManagedObjectAdapter</string>
+			<key>path</key>
+			<string>MTLManagedObjectAdapter</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>19D81E345715F41ED29349DBFF389D55</key>
 		<dict>
 			<key>fileRef</key>
@@ -521,7 +551,7 @@
 		<key>1D39F7CEAF9E7572E2A4C30CA5BAE5DA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BEA0FD2AA4141D97DDF2A5698BA7A9FD</string>
+			<string>1253722ECE2220A08696158E639466BF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -544,21 +574,6 @@
 			<string>NSManagedObject+MagicalDataImport.m</string>
 			<key>path</key>
 			<string>MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalDataImport.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1FB5E29E9632F3D1EC100E7A58389CB2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7EC2D0F3EC78009D1FE8B6B25CDB684B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -805,6 +820,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>2EAD8AB23F4E364B4929BE3A9F6B2A6A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>EXTRuntimeExtensions.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>2F5DB1026D9B296A0AD56A6F1D2AC557</key>
 		<dict>
 			<key>fileRef</key>
@@ -988,6 +1016,19 @@
 			<string>text</string>
 			<key>path</key>
 			<string>Pods-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>39D15481DD724FA47A184CD2598E2B0E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>EXTScope.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1439,19 +1480,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>57928AC0A85D0EA7BBA551C171F458BF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>EXTRuntimeExtensions.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>57ED441FD92FF835D4F8B590367C9312</key>
 		<dict>
 			<key>isa</key>
@@ -1765,19 +1793,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6231A8A7CB41D783087300C5DE39D455</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>EXTScope.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>6265381CA0E1C866D90F5C3894F06A3F</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1805,6 +1820,19 @@
 			<string>NSEntityDescription+MagicalDataImport.m</string>
 			<key>path</key>
 			<string>MagicalRecord/Categories/DataImport/NSEntityDescription+MagicalDataImport.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>665451280D73EC22EAF19D4E597B2FEF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MTLManagedObjectAdapter.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1873,7 +1901,7 @@
 		<key>6949CDC5772AF3F5C77CA59BE5BD511E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B5CA8506E517CBD0AE4B8A2624530777</string>
+			<string>D69A9E286F75DF6B0F6872EE89DC95F0</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2058,6 +2086,19 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>771687A8E6E774EBCC0A6243EF8194BF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>XYMTLManagedObjectAdapter-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>7778BA45C3CA5EE4B3D22F45400834DF</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2168,7 +2209,7 @@
 		<key>7B63D99F3FAEE3AD413BFFFB1A384DEB</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>A7C1AE9863DEA96074611EF9AD7CB18F</string>
+			<string>10FF40007C2577CBA5264DDB902D8779</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -2219,7 +2260,7 @@
 			<key>children</key>
 			<array>
 				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>C533D0C7CAEBBCBDCD95ECCCD2099781</string>
+				<string>9D599633F35901169970624B5755CC5C</string>
 				<string>433CD3331B6C3787F473C941B61FC68F</string>
 				<string>5FA5379A1297B32D520D7FD7D7AFEF53</string>
 				<string>B59A5E47DC2F4230DA9B66B1F8BCFA0C</string>
@@ -2227,23 +2268,6 @@
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7E3077687DAD3B4210C1EA3884EACDD8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A7C1AE9863DEA96074611EF9AD7CB18F</string>
-				<string>C811B510D133FB3F3C7836406F8374C0</string>
-				<string>E828E20A1D916AFFB0D0B7169365D7F2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Demo/Pods/Target Support Files/XYMTLManagedObjectAdapter</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2271,23 +2295,6 @@
 			<string>MagicalRecordXcode7CompatibilityMacros.h</string>
 			<key>path</key>
 			<string>MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7EC2D0F3EC78009D1FE8B6B25CDB684B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B5CA8506E517CBD0AE4B8A2624530777</string>
-				<string>0CA6FFC1E37F3EC3BBF24039C64960B1</string>
-				<string>AD1AA80267B8E04BCC9CA0772963B49E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MTLManagedObjectAdapter</string>
-			<key>path</key>
-			<string>MTLManagedObjectAdapter</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2360,9 +2367,22 @@
 		<key>881AC45C19AD0645867A2987655CFAA6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C811B510D133FB3F3C7836406F8374C0</string>
+			<string>BC0BAEEF0B66C3E071784CE0883551D6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>883304A31027E14136CDD528648F3990</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>mtl_moa_EXTKeyPathCoding.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>8854EC167402CB4902560CC128B4684D</key>
 		<dict>
@@ -2469,6 +2489,19 @@
 			<string>MTLReflection.m</string>
 			<key>path</key>
 			<string>Mantle/MTLReflection.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8DF95CCFDD444E2F5BD3856A4518139F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>mtl_moa_EXTRuntimeExtensions.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2581,6 +2614,26 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>97E30D4BA8E0545B2485A467626D28FA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2EAD8AB23F4E364B4929BE3A9F6B2A6A</string>
+				<string>39D15481DD724FA47A184CD2598E2B0E</string>
+				<string>883304A31027E14136CDD528648F3990</string>
+				<string>8DF95CCFDD444E2F5BD3856A4518139F</string>
+				<string>1253722ECE2220A08696158E639466BF</string>
+				<string>A6B969329720A35F352FB31F7BD15A45</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>extobjc</string>
+			<key>path</key>
+			<string>extobjc</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>981479FB7B6C165E8523BD2A70A80100</key>
 		<dict>
@@ -2698,6 +2751,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>9D599633F35901169970624B5755CC5C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C39D4F98425CE90C1849728492994667</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Development Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>A1A36D34413696BE466E2CA0AFF194DA</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2762,6 +2828,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>A51DF882FCC3A7E3633FB1709CBFFCAA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>19449203DE694CEA01F1FC793DD6D808</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>A59A4E3AC3BD584845EF5FA274D2E25A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2789,6 +2870,19 @@
 			<string>MTLReflection.h</string>
 			<key>path</key>
 			<string>Mantle/MTLReflection.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A6B969329720A35F352FB31F7BD15A45</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>mtl_moa_metamacros.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2821,19 +2915,6 @@
 			<string>libMantle.a</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>A7C1AE9863DEA96074611EF9AD7CB18F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>XYMTLManagedObjectAdapter.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>A7CE0B2F5900B8DE72065180B996B165</key>
 		<dict>
@@ -2940,7 +3021,7 @@
 		<key>AC1127345D24FA77488FD6060AE4F6B7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6231A8A7CB41D783087300C5DE39D455</string>
+			<string>39D15481DD724FA47A184CD2598E2B0E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2948,26 +3029,6 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-all-checks</string>
 			</dict>
-		</dict>
-		<key>AD1AA80267B8E04BCC9CA0772963B49E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>57928AC0A85D0EA7BBA551C171F458BF</string>
-				<string>6231A8A7CB41D783087300C5DE39D455</string>
-				<string>C8AB1B9EA5E91EA4BF5E79783CB77C6B</string>
-				<string>BB09BB4145EFBB063554CF07424B8553</string>
-				<string>BEA0FD2AA4141D97DDF2A5698BA7A9FD</string>
-				<string>EE797CEFBA6F12448544E54CC45C7F86</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>extobjc</string>
-			<key>path</key>
-			<string>extobjc</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>AD37166A7F7B9CD57C8E5FF0E00D1E39</key>
 		<dict>
@@ -3100,19 +3161,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B5CA8506E517CBD0AE4B8A2624530777</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MTLManagedObjectAdapter.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>B5D549C419BC6719530F5CD98BF8794E</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3204,16 +3252,16 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>BB09BB4145EFBB063554CF07424B8553</key>
+		<key>BC0BAEEF0B66C3E071784CE0883551D6</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>mtl_moa_EXTRuntimeExtensions.h</string>
+			<string>XYMTLManagedObjectAdapter-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3223,19 +3271,6 @@
 			<string>272643F56613CA0D336AE3DBF19DC404</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>BEA0FD2AA4141D97DDF2A5698BA7A9FD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>mtl_moa_EXTScope.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>C0B7827E6FEB64AEA58656D1DE343E63</key>
 		<dict>
@@ -3252,7 +3287,7 @@
 		<key>C297063A96D966362B3E8F59E530BB26</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>A7C1AE9863DEA96074611EF9AD7CB18F</string>
+			<string>10FF40007C2577CBA5264DDB902D8779</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -3283,16 +3318,19 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>C533D0C7CAEBBCBDCD95ECCCD2099781</key>
+		<key>C39D4F98425CE90C1849728492994667</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>EB76769D0633D0300ED787DE96AF8FB8</string>
+				<string>A51DF882FCC3A7E3633FB1709CBFFCAA</string>
+				<string>CC8CCA7E9467A6448B8C6489FAD4E44F</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Development Pods</string>
+			<string>XYMTLManagedObjectAdapter</string>
+			<key>path</key>
+			<string>../..</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3302,19 +3340,6 @@
 			<string>61FAB200215FF9516DB1A4A10217FBD6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>C811B510D133FB3F3C7836406F8374C0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>XYMTLManagedObjectAdapter-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>C81565119828BBE0738F385F6F80D666</key>
 		<dict>
@@ -3344,19 +3369,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>C8AB1B9EA5E91EA4BF5E79783CB77C6B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>mtl_moa_EXTKeyPathCoding.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>C9531CFC93E5A900DC7F7177E6A8CB06</key>
 		<dict>
@@ -3406,7 +3418,7 @@
 		<key>CB4CF5A303C85BA2129CB6416788ADA1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>57928AC0A85D0EA7BBA551C171F458BF</string>
+			<string>2EAD8AB23F4E364B4929BE3A9F6B2A6A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3436,6 +3448,23 @@
 			<string>3A30420E6FBFC0653A1ADA5374AC587D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>CC8CCA7E9467A6448B8C6489FAD4E44F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>10FF40007C2577CBA5264DDB902D8779</string>
+				<string>BC0BAEEF0B66C3E071784CE0883551D6</string>
+				<string>771687A8E6E774EBCC0A6243EF8194BF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>Demo/Pods/Target Support Files/XYMTLManagedObjectAdapter</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>CD0E014267FF8DACD7AB014707DE97EE</key>
 		<dict>
@@ -3553,7 +3582,7 @@
 		<key>D32DBF2E32F5FE3E3B12A239ACE20BFB</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0CA6FFC1E37F3EC3BBF24039C64960B1</string>
+			<string>665451280D73EC22EAF19D4E597B2FEF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3645,6 +3674,19 @@
 			<string>3249BA950BBA317C84726A3945BF9407</string>
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>D69A9E286F75DF6B0F6872EE89DC95F0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MTLManagedObjectAdapter.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D7391FB210F7E64A771A6EEB7932FBDA</key>
 		<dict>
@@ -3795,7 +3837,7 @@
 		<key>DFFA3D2E48D5F8AE0E225DB227A313D5</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C8AB1B9EA5E91EA4BF5E79783CB77C6B</string>
+			<string>883304A31027E14136CDD528648F3990</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3977,19 +4019,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>E828E20A1D916AFFB0D0B7169365D7F2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>XYMTLManagedObjectAdapter-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>E89ED93BC0FB4D295BAE9F11B5B21FBE</key>
 		<dict>
 			<key>fileRef</key>
@@ -4033,22 +4062,6 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>EB76769D0633D0300ED787DE96AF8FB8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1FB5E29E9632F3D1EC100E7A58389CB2</string>
-				<string>7E3077687DAD3B4210C1EA3884EACDD8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>XYMTLManagedObjectAdapter</string>
-			<key>path</key>
-			<string>../../XYMTLManagedObjectAdapter</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>EC7865BC129DD658B877C6CED750349A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4061,19 +4074,6 @@
 			<string>NSManagedObjectModel+MagicalRecord.h</string>
 			<key>path</key>
 			<string>MagicalRecord/Categories/NSManagedObjectModel+MagicalRecord.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EE797CEFBA6F12448544E54CC45C7F86</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>mtl_moa_metamacros.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -4106,7 +4106,7 @@
 		<key>F0E8A5C8449400A8BAB2394A1A3DE7C2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EE797CEFBA6F12448544E54CC45C7F86</string>
+			<string>A6B969329720A35F352FB31F7BD15A45</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4290,7 +4290,7 @@
 		<key>F94B63FC6344278EDECAFC4186E1EE6B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BB09BB4145EFBB063554CF07424B8553</string>
+			<string>8DF95CCFDD444E2F5BD3856A4518139F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>

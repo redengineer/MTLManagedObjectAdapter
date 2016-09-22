@@ -1,6 +1,6 @@
 {
   "name": "XYMTLManagedObjectAdapter",
-  "version": "0.0.1x",
+  "version": "0.0.2x",
   "summary": "A short description of XYMTLManagedObjectAdapter.",
   "description": "",
   "homepage": "http://EXAMPLE/XYMTLManagedObjectAdapter",
@@ -9,8 +9,8 @@
     "QiuFeng": "fqiu@xiaohongshu.com"
   },
   "source": {
-    "git": "http://EXAMPLE/XYMTLManagedObjectAdapter.git",
-    "tag": "0.0.1x"
+    "git": "https://github.com/redengineer/MTLManagedObjectAdapter.git",
+    "tag": "0.0.2x"
   },
   "source_files": [
     "Classes",

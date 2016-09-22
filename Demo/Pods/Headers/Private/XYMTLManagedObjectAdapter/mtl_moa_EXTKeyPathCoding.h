@@ -1,1 +1,1 @@
-../../../../../XYMTLManagedObjectAdapter/Classes/MTLManagedObjectAdapter/extobjc/mtl_moa_EXTKeyPathCoding.h
+../../../../../Classes/MTLManagedObjectAdapter/extobjc/mtl_moa_EXTKeyPathCoding.h
