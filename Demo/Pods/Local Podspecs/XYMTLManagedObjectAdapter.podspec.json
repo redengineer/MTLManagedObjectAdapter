@@ -1,0 +1,25 @@
+{
+  "name": "XYMTLManagedObjectAdapter",
+  "version": "0.0.1x",
+  "summary": "A short description of XYMTLManagedObjectAdapter.",
+  "description": "",
+  "homepage": "http://EXAMPLE/XYMTLManagedObjectAdapter",
+  "license": "MIT (example)",
+  "authors": {
+    "QiuFeng": "fqiu@xiaohongshu.com"
+  },
+  "source": {
+    "git": "http://EXAMPLE/XYMTLManagedObjectAdapter.git",
+    "tag": "0.0.1x"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "dependencies": {
+    "Mantle": [
+
+    ]
+  }
+}
