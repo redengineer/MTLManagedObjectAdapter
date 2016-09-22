@@ -1,0 +1,1 @@
+../../../../../XYMTLManagedObjectAdapter/Classes/MTLManagedObjectAdapter/MTLManagedObjectAdapter.h
