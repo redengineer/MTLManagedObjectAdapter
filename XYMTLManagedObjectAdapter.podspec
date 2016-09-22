@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "XYMTLManagedObjectAdapter"
-  s.version      = "0.0.1x"
+  s.version      = "0.0.2x"
   s.summary      = "A short description of XYMTLManagedObjectAdapter."
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/redengineer/MTLManagedObjectAdapter.git", :tag => "0.0.1x" }
+  s.source       = { :git => "https://github.com/redengineer/MTLManagedObjectAdapter.git", :tag => "0.0.2x" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

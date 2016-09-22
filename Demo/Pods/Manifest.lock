@@ -5,20 +5,20 @@ PODS:
   - Mantle (2.0.7):
     - Mantle/extobjc (= 2.0.7)
   - Mantle/extobjc (2.0.7)
-  - XYMTLManagedObjectAdapter (0.0.1x):
+  - XYMTLManagedObjectAdapter (0.0.2x):
     - Mantle
 
 DEPENDENCIES:
   - MagicalRecord (~> 2.3.2)
-  - XYMTLManagedObjectAdapter (from `../XYMTLManagedObjectAdapter`)
+  - XYMTLManagedObjectAdapter (from `../`)
 
 EXTERNAL SOURCES:
   XYMTLManagedObjectAdapter:
-    :path: ../XYMTLManagedObjectAdapter
+    :path: ../
 
 SPEC CHECKSUMS:
   MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
   Mantle: bc40bb061d8c2c6fb48d5083e04d928c3b7f73d9
-  XYMTLManagedObjectAdapter: 8dace2adcbbfc852d53c089cb1f412a2e1802603
+  XYMTLManagedObjectAdapter: 19eb034cfeab56af1e09f408dba765aa632e5883
 
 COCOAPODS: 0.39.0

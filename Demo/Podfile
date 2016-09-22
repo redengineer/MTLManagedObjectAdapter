@@ -1,2 +1,2 @@
-pod 'XYMTLManagedObjectAdapter', :path => '../XYMTLManagedObjectAdapter', :inhibit_warnings => true
+pod 'XYMTLManagedObjectAdapter', :path => '../', :inhibit_warnings => true
 pod 'MagicalRecord', '~> 2.3.2'

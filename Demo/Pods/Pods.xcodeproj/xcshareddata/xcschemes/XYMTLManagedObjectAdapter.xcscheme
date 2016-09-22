@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '30A094EE0F0F3E69893F575B'
+               BlueprintIdentifier = '2B3899FF37350EBA23E62EE6'
                BlueprintName = 'XYMTLManagedObjectAdapter'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libXYMTLManagedObjectAdapter.a'>
