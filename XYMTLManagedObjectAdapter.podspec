@@ -17,16 +17,16 @@ Pod::Spec.new do |s|
 
   s.name         = "XYMTLManagedObjectAdapter"
   s.version      = "0.0.2x"
-  s.summary      = "A short description of XYMTLManagedObjectAdapter."
+  s.summary      = "Mantle Model 转换class"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "Mantle Model for CoreData"
+  s.description  = "XYMTLManagedObjectAdapter Mantle Model 转换class"
 
-  s.homepage     = "http://www.xiaohongshu.com/XYMTLManagedObjectAdapter"
+  s.homepage     = "https://github.com/redengineer/MTLManagedObjectAdapter"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -64,6 +64,7 @@ Pod::Spec.new do |s|
 
   # s.platform     = :ios
   # s.platform     = :ios, "7.0"
+  s.platform      = :ios, '8.0'
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
