@@ -7,7 +7,7 @@
 //  Released under the MIT license.
 //
 
-#import "metamacros.h"
+#import "mtl_moa_metamacros.h"
 
 /**
  * \@onExit defines some code to be executed when the current scope exits. The

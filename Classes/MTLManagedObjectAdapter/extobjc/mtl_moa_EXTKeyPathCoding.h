@@ -8,7 +8,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "metamacros.h"
+#import "mtl_moa_metamacros.h"
 
 /**
  * \@keypath allows compile-time verification of key paths. Given a real object
